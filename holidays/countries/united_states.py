@@ -133,7 +133,7 @@ class UnitedStates(ObservedHolidayBase, ChristianHolidays, InternationalHolidays
     default_language = "en_US"
     # %s (observed).
     observed_label = tr("%s (observed)")
-    supported_languages = ("en_US", "th")
+    supported_languages = ("en_US", "hi", "th")
     # Independence Declared on July 4th, 1776.
     start_year = 1777
     subdivisions: tuple[()] | tuple[str, ...] = (

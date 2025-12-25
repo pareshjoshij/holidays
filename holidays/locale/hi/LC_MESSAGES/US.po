@@ -1,0 +1,506 @@
+#  holidays
+#  --------
+#  A fast, efficient Python library for generating country, province and state
+#  specific sets of holidays on the fly. It aims to make determining whether a
+#  specific date is a holiday as fast and flexible as possible.
+#
+#  Authors: Vacanza Team and individual contributors (see CONTRIBUTORS file)
+#           dr-prodigy <dr.prodigy.github@gmail.com> (c) 2017-2023
+#           ryanss <ryanssdev@icloud.com> (c) 2014-2017
+#  Website: https://github.com/vacanza/holidays
+#  License: MIT (see LICENSE file)
+
+# Hindi translations for holidays package.
+# Authors: Vacanza Team and individual contributors
+# This file is distributed under the same license as the holidays package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Holidays 0.88\n"
+"POT-Creation-Date: 2025-08-21 16:22+0000\n"
+"PO-Revision-Date: 2025-12-25 13:21+0530\n"
+"Last-Translator: Paresh Joshi <hello@pareshjoshi.me>\n"
+"Language-Team: Holidays Localization Team\n"
+"Language: hi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Source-Language: en_US\n"
+
+#. %s (observed).
+#, c-format
+msgid "%s (observed)"
+msgstr "%s (मनाया गया)"
+
+#. New Year's Day.
+msgid "New Year's Day"
+msgstr "नया साल"
+
+#. Birthday of Martin Luther King, Jr..
+msgid "Birthday of Martin Luther King, Jr."
+msgstr "मार्टिन लूथर किंग जूनियर का जन्मदिन"
+
+#. Washington's Birthday.
+msgid "Washington's Birthday"
+msgstr "वाशिंगटन का जन्मदिन"
+
+#. Veterans Day.
+msgid "Veterans Day"
+msgstr "वेटरन्स डे"
+
+#. Armistice Day.
+msgid "Armistice Day"
+msgstr "युद्धविराम दिवस"
+
+#. Memorial Day.
+msgid "Memorial Day"
+msgstr "मेमोरियल डे"
+
+#. Juneteenth National Independence Day.
+msgid "Juneteenth National Independence Day"
+msgstr "जूनटीनथ राष्ट्रीय स्वतंत्रता दिवस"
+
+#. Independence Day.
+msgid "Independence Day"
+msgstr "स्वतंत्रता दिवस"
+
+#. Labor Day.
+msgid "Labor Day"
+msgstr "मजदूर दिवस"
+
+#. Columbus Day.
+msgid "Columbus Day"
+msgstr "कोलंबस दिवस"
+
+#. Thanksgiving Day.
+msgid "Thanksgiving Day"
+msgstr "थैंक्सगिविंग डे"
+
+#. Christmas Day.
+msgid "Christmas Day"
+msgstr "क्रिसमस"
+
+#. Christmas Eve.
+msgid "Christmas Eve"
+msgstr "क्रिसमस की पूर्व संध्या"
+
+#. Martin Luther King Jr. Day.
+msgid "Martin Luther King Jr. Day"
+msgstr "मार्टिन लूथर किंग जूनियर दिवस"
+
+#. Presidents' Day.
+msgid "Presidents' Day"
+msgstr "राष्ट्रपति दिवस"
+
+#. Seward's Day.
+msgid "Seward's Day"
+msgstr "सेवार्ड्स डे"
+
+#. Indigenous Peoples' Day.
+msgid "Indigenous Peoples' Day"
+msgstr "मूल निवासी दिवस"
+
+#. Alaska Day.
+msgid "Alaska Day"
+msgstr "अलास्का दिवस"
+
+#. Martin Luther King, Jr & Robert E. Lee's Birthday.
+msgid "Martin Luther King, Jr & Robert E. Lee's Birthday"
+msgstr "मार्टिन लूथर किंग जूनियर और रॉबर्ट ई. ली का जन्मदिन"
+
+#. George Washington & Thomas Jefferson's Birthday.
+msgid "George Washington & Thomas Jefferson's Birthday"
+msgstr "जॉर्ज वाशिंगटन और थॉमस जेफरसन का जन्मदिन"
+
+#. Confederate Memorial Day.
+msgid "Confederate Memorial Day"
+msgstr "कन्फेडरेट मेमोरियल डे"
+
+#. Jefferson Davis Birthday.
+msgid "Jefferson Davis Birthday"
+msgstr "जेफरसन डेविस का जन्मदिन"
+
+#. Columbus Day / American Indian Heritage Day / Fraternal Day.
+msgid "Columbus Day / American Indian Heritage Day / Fraternal Day"
+msgstr "कोलंबस दिवस / अमेरिकी भारतीय विरासत दिवस / भाईचारा दिवस"
+
+#. Columbus Day / Fraternal Day.
+msgid "Columbus Day / Fraternal Day"
+msgstr "कोलंबस दिवस / भाईचारा दिवस"
+
+#. Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays.
+msgid "Dr. Martin Luther King Jr. and Robert E. Lee's Birthdays"
+msgstr "डॉ. मार्टिन लूथर किंग जूनियर और रॉबर्ट ई. ली के जन्मदिन"
+
+#. George Washington's Birthday and Daisy Gatson Bates Day.
+msgid "George Washington's Birthday and Daisy Gatson Bates Day"
+msgstr "जॉर्ज वाशिंगटन का जन्मदिन और डेज़ी गैट्सन बेट्स डे"
+
+#. American Samoa Flag Day.
+msgid "American Samoa Flag Day"
+msgstr "अमेरिकी समोआ ध्वज दिवस"
+
+#. Manu'a Islands Cession Day.
+msgid "Manu'a Islands Cession Day"
+msgstr "मनुआ द्वीप परिग्रहण दिवस"
+
+#. White Sunday.
+msgid "White Sunday"
+msgstr "व्हाइट संडे"
+
+#. Dr. Martin Luther King Jr. / Civil Rights Day.
+msgid "Dr. Martin Luther King Jr. / Civil Rights Day"
+msgstr "डॉ. मार्टिन लूथर किंग जूनियर / नागरिक अधिकार दिवस"
+
+#. Lincoln/Washington Presidents' Day.
+msgid "Lincoln/Washington Presidents' Day"
+msgstr "लिंकन/वाशिंगटन राष्ट्रपति दिवस"
+
+#. Lincoln's Birthday.
+msgid "Lincoln's Birthday"
+msgstr "लिंकन का जन्मदिन"
+
+#. Susan B. Anthony Day.
+msgid "Susan B. Anthony Day"
+msgstr "सुसान बी एंथोनी दिवस"
+
+#. Cesar Chavez Day.
+msgid "Cesar Chavez Day"
+msgstr "सीज़र शावेज़ दिवस"
+
+#. Day After Thanksgiving.
+msgid "Day After Thanksgiving"
+msgstr "थैंक्सगिविंग के बाद का दिन"
+
+#. Washington-Lincoln Day.
+msgid "Washington-Lincoln Day"
+msgstr "वाशिंगटन-लिंकन दिवस"
+
+#. Frances Xavier Cabrini Day.
+msgid "Frances Xavier Cabrini Day"
+msgstr "फ्रांसेस जेवियर कैब्रिनी दिवस"
+
+#. Good Friday.
+msgid "Good Friday"
+msgstr "गुड फ्राइडे"
+
+#. Inauguration Day.
+msgid "Inauguration Day"
+msgstr "उद्घाटन दिवस"
+
+#. Emancipation Day.
+msgid "Emancipation Day"
+msgstr "मुक्ति दिवस"
+
+#. Election Day.
+msgid "Election Day"
+msgstr "चुनाव दिवस"
+
+#. Friday After Thanksgiving.
+msgid "Friday After Thanksgiving"
+msgstr "थैंक्सगिविंग के बाद का शुक्रवार"
+
+#. Robert E. Lee's Birthday.
+msgid "Robert E. Lee's Birthday"
+msgstr "रॉबर्ट ई. ली का जन्मदिन"
+
+#. State Holiday.
+msgid "State Holiday"
+msgstr "राज्य अवकाश"
+
+#. Guam Discovery Day.
+msgid "Guam Discovery Day"
+msgstr "गुआम खोज दिवस"
+
+#. Liberation Day (Guam).
+msgid "Liberation Day (Guam)"
+msgstr "मुक्ति दिवस (गुआम)"
+
+#. All Souls' Day.
+msgid "All Souls' Day"
+msgstr "ऑल सोल्स डे"
+
+#. Lady of Camarin Day.
+msgid "Lady of Camarin Day"
+msgstr "लेडी ऑफ कैमारिन डे"
+
+#. Prince Jonah Kuhio Kalanianaole Day.
+msgid "Prince Jonah Kuhio Kalanianaole Day"
+msgstr "प्रिंस जोना कुहियो कलानिओले दिवस"
+
+#. Kamehameha Day.
+msgid "Kamehameha Day"
+msgstr "कमेहामेहा दिवस"
+
+#. Statehood Day.
+msgid "Statehood Day"
+msgstr "राज्य स्थापना दिवस"
+
+#. Martin Luther King Jr. / Idaho Human Rights Day.
+msgid "Martin Luther King Jr. / Idaho Human Rights Day"
+msgstr "मार्टिन लूथर किंग जूनियर / इडाहो मानवाधिकार दिवस"
+
+#. Casimir Pulaski Day.
+msgid "Casimir Pulaski Day"
+msgstr "कासिमिर पुलस्की दिवस"
+
+#. Primary Election Day.
+msgid "Primary Election Day"
+msgstr "प्राथमिक चुनाव दिवस"
+
+#. New Year's Eve.
+msgid "New Year's Eve"
+msgstr "नए साल की पूर्व संध्या"
+
+#. Mardi Gras.
+msgid "Mardi Gras"
+msgstr "मार्डी ग्रास"
+
+#. Evacuation Day.
+msgid "Evacuation Day"
+msgstr "निकासी दिवस"
+
+#. Patriots' Day.
+msgid "Patriots' Day"
+msgstr "देशभक्त दिवस"
+
+#. American Indian Heritage Day.
+msgid "American Indian Heritage Day"
+msgstr "अमेरिकी भारतीय विरासत दिवस"
+
+#. Washington's and Lincoln's Birthday.
+msgid "Washington's and Lincoln's Birthday"
+msgstr "वाशिंगटन और लिंकन का जन्मदिन"
+
+#. Truman Day.
+msgid "Truman Day"
+msgstr "ट्रूमैन दिवस"
+
+#. Commonwealth Covenant Day.
+msgid "Commonwealth Covenant Day"
+msgstr "राष्ट्रमंडल वाचा दिवस"
+
+#. Commonwealth Cultural Day.
+msgid "Commonwealth Cultural Day"
+msgstr "राष्ट्रमंडल सांस्कृतिक दिवस"
+
+#. Citizenship Day.
+msgid "Citizenship Day"
+msgstr "नागरिकता दिवस"
+
+#. Constitution Day.
+msgid "Constitution Day"
+msgstr "संविधान दिवस"
+
+#. Lincoln's and Washington's Birthdays.
+msgid "Lincoln's and Washington's Birthdays"
+msgstr "लिंकन और वाशिंगटन के जन्मदिन"
+
+#. Day After Christmas.
+msgid "Day After Christmas"
+msgstr "क्रिसमस के बाद का दिन"
+
+#. Arbor Day.
+msgid "Arbor Day"
+msgstr "आर्बर डे"
+
+#. Presidents Day.
+msgid "Presidents Day"
+msgstr "राष्ट्रपति दिवस"
+
+#. Nevada Day.
+msgid "Nevada Day"
+msgstr "नेवादा दिवस"
+
+#. Family Day.
+msgid "Family Day"
+msgstr "परिवार दिवस"
+
+#. Epiphany.
+msgid "Epiphany"
+msgstr "एपिफेनी"
+
+#. Birthday of Eugenio María de Hostos.
+msgid "Birthday of Eugenio María de Hostos"
+msgstr "यूजेनियो मारिया डी होस्टोस का जन्मदिन"
+
+#. George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico.
+msgid ""
+"George Washington Day, Presidents' Day, and the Day of the Women and Men Heroes of Puerto Rico"
+msgstr "जॉर्ज वाशिंगटन दिवस, राष्ट्रपति दिवस, और प्यूर्टो रिको के महिला और पुरुष नायकों का दिवस"
+
+#. George Washington Day, Presidents' Day, and the Day of the Hero and the Illustrious Woman of
+#. Puerto Rico.
+msgid ""
+"George Washington Day, Presidents' Day, and the Day of the Hero and the Illustrious Woman of "
+"Puerto Rico"
+msgstr "जॉर्ज वाशिंगटन दिवस, राष्ट्रपति दिवस, और प्यूर्टो रिको के नायक और प्रतिष्ठित महिला का दिवस"
+
+#. George Washington Day, Presidents' Day, and the Puerto Rican Heroes Day.
+msgid "George Washington Day, Presidents' Day, and the Puerto Rican Heroes Day"
+msgstr "जॉर्ज वाशिंगटन दिवस, राष्ट्रपति दिवस, और प्यूर्टो रिकान नायकों का दिवस"
+
+#. George Washington Day.
+msgid "George Washington Day"
+msgstr "जॉर्ज वाशिंगटन दिवस"
+
+#. José de Diego Day.
+msgid "José de Diego Day"
+msgstr "जोस डी डिएगो दिवस"
+
+#. Luis Muñoz Rivera Day.
+msgid "Luis Muñoz Rivera Day"
+msgstr "लुइस मुनोज़ रिवेरा दिवस"
+
+#. Puerto Rico Constitution Day.
+msgid "Puerto Rico Constitution Day"
+msgstr "प्यूर्टो रिको संविधान दिवस"
+
+#. Occupation Day.
+msgid "Occupation Day"
+msgstr "अधिग्रहण दिवस"
+
+#. José Celso Barbosa Day.
+msgid "José Celso Barbosa Day"
+msgstr "जोस सेल्सो बारबोसा दिवस"
+
+#. Puerto Rican Identity Day.
+msgid "Puerto Rican Identity Day"
+msgstr "प्यूर्टो रिकान पहचान दिवस"
+
+#. Puerto Rican Culture and Discovery of Puerto Rico Day.
+msgid "Puerto Rican Culture and Discovery of Puerto Rico Day"
+msgstr "प्यूर्टो रिकान संस्कृति और प्यूर्टो रिको खोज दिवस"
+
+#. Discovery of Puerto Rico Day.
+msgid "Discovery of Puerto Rico Day"
+msgstr "प्यूर्टो रिको खोज दिवस"
+
+#. %s (from 12pm).
+#, c-format
+msgid "%s (from 12pm)"
+msgstr "%s (दोपहर 12 बजे से)"
+
+#. Victory Day.
+msgid "Victory Day"
+msgstr "विजय दिवस"
+
+#. Indigenous Peoples' Day / Columbus Day.
+msgid "Indigenous Peoples' Day / Columbus Day"
+msgstr "मूल निवासी दिवस / कोलंबस दिवस"
+
+#. President's Day.
+msgid "President's Day"
+msgstr "राष्ट्रपति दिवस"
+
+#. Native Americans' Day.
+msgid "Native Americans' Day"
+msgstr "मूल अमेरिकियों का दिवस"
+
+#. Texas Independence Day.
+msgid "Texas Independence Day"
+msgstr "टेक्सास स्वतंत्रता दिवस"
+
+#. San Jacinto Day.
+msgid "San Jacinto Day"
+msgstr "सैन जैसिंटो दिवस"
+
+#. Emancipation Day In Texas.
+msgid "Emancipation Day In Texas"
+msgstr "टेक्सास में मुक्ति दिवस"
+
+#. Lyndon Baines Johnson Day.
+msgid "Lyndon Baines Johnson Day"
+msgstr "लिंडन बैनेस जॉनसन दिवस"
+
+#. Washington and Lincoln Day.
+msgid "Washington and Lincoln Day"
+msgstr "वाशिंगटन और लिंकन दिवस"
+
+#. Pioneer Day.
+msgid "Pioneer Day"
+msgstr "पायनियर दिवस"
+
+#. Lee Jackson Day.
+msgid "Lee Jackson Day"
+msgstr "ली जैक्सन दिवस"
+
+#. Three Kings Day.
+msgid "Three Kings Day"
+msgstr "थ्री किंग्स डे"
+
+#. Transfer Day.
+msgid "Transfer Day"
+msgstr "हस्तांतरण दिवस"
+
+#. Holy Thursday.
+msgid "Holy Thursday"
+msgstr "पवित्र गुरुवार"
+
+#. Easter Monday.
+msgid "Easter Monday"
+msgstr "ईस्टर सोमवार"
+
+#. Columbus Day and Puerto Rico Friendship Day.
+msgid "Columbus Day and Puerto Rico Friendship Day"
+msgstr "कोलंबस दिवस और प्यूर्टो रिको मैत्री दिवस"
+
+#. Liberty Day.
+msgid "Liberty Day"
+msgstr "लिबर्टी दिवस"
+
+#. Christmas Second Day.
+msgid "Christmas Second Day"
+msgstr "क्रिसमस का दूसरा दिन"
+
+#. Town Meeting Day.
+msgid "Town Meeting Day"
+msgstr "टाउन मीटिंग डे"
+
+#. Bennington Battle Day.
+msgid "Bennington Battle Day"
+msgstr "बेनिंगटन बैटल डे"
+
+#. Native American Heritage Day.
+msgid "Native American Heritage Day"
+msgstr "मूल अमेरिकी विरासत दिवस"
+
+#. West Virginia Day.
+msgid "West Virginia Day"
+msgstr "वेस्ट वर्जीनिया दिवस"
+
+#. Valentine's Day.
+msgid "Valentine's Day"
+msgstr "वेलेंटाइन डे"
+
+#. Saint Patrick's Day.
+msgid "Saint Patrick's Day"
+msgstr "सेंट पैट्रिक दिवस"
+
+#. Mother's Day.
+msgid "Mother's Day"
+msgstr "मातृ दिवस"
+
+#. Father's Day.
+msgid "Father's Day"
+msgstr "पितृ दिवस"
+
+#. Halloween.
+msgid "Halloween"
+msgstr "हैलोवीन"
+
+#. Groundhog Day.
+msgid "Groundhog Day"
+msgstr "ग्राउंडहोग डे"
+
+#. Fasting and Humiliation Day.
+msgid "Fasting and Humiliation Day"
+msgstr "उपवास और विनम्रता दिवस"
+
+#. Public Humiliation and Prayer Day.
+msgid "Public Humiliation and Prayer Day"
+msgstr "सार्वजनिक विनम्रता और प्रार्थना दिवस"
+
+#. Public Thanksgiving and Prayer Day.
+msgid "Public Thanksgiving and Prayer Day"
+msgstr "सार्वजनिक धन्यवाद और प्रार्थना दिवस"
