@@ -774,7 +774,7 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td>Guam</td>
 <td>GU</td>
 <td>Can also be loaded as country US, subdivision GU</td>
-<td><strong>en_US</strong>, th</td>
+<td><strong>en_US</strong>, hi, th</td>
 <td>UNOFFICIAL</td>
 </tr>
 <tr>
