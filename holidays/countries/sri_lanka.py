@@ -82,7 +82,7 @@ class SriLanka(
     default_language = "si_LK"
     # %s (estimated).
     estimated_label = tr("%s (අනුමානිත)")
-    supported_languages = ("en_US", "si_LK", "ta_LK")
+    supported_languages = ("en_US", "hi", "si_LK", "ta_LK")
     # Sri Lanka's Holidays Act (No. 29 of 1971) was first proclaimed on September 2nd, 1971
     # but the earliest citable online calendar reference is from 2003. As Poya dates are
     # approved on a yearly basis by the Poya committee, the end year is capped at 2026.

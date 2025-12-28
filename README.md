@@ -1614,7 +1614,7 @@ any) in brackets, available languages and additional holiday categories. All cou
 <td>Sri Lanka</td>
 <td>LK</td>
 <td></td>
-<td>en_US, <strong>si_LK</strong>, ta_LK</td>
+<td>en_US, hi, <strong>si_LK</strong>, ta_LK</td>
 <td>BANK, GOVERNMENT, WORKDAY</td>
 </tr>
 <tr>
